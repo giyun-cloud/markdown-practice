@@ -45,7 +45,7 @@ a태그의 target은 구현되지않음
 # 이미지
 ![대체텍스트](https://images.freeimages.com/images/premium/previews/3809/38096216-cartoon-little-teddy-bear.jpg)  
 사이트 주소연결하고싶으면 아래처럼  
-![대체텍스트](https://images.freeimages.com/images/premium/previews/3809/38096216-cartoon-little-teddy-bear.jpg)](https://www.google.com/)
+[![대체텍스트](https://images.freeimages.com/images/premium/previews/3809/38096216-cartoon-little-teddy-bear.jpg)](https://www.google.com/)
 
 
 
